@@ -1,6 +1,5 @@
-nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.1.1
+myifeng/registry.k8s.io_ingress-nginx_kube-webhook-certgen:v1.1.1
 #支持指定架构
 --platform=linux/amd64
