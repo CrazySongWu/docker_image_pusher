@@ -1,6 +1,7 @@
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-eipwork/etcd-host:3.4.16-2
+rocketmq-exporter
+busybox:1.31
 # --platform=linux/amd64 eipwork/kuboard-spray:v1.2.3-amd64
 #支持指定架构
 #--platform=linux/amd64
