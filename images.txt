@@ -1,6 +1,7 @@
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-quay.io/hedgedoc/hedgedoc:1.10.2
+xuxueli/xxl-job-admin:2.4.0
+nacos/nacos-peer-finder-plugin:latest
 # --platform=linux/amd64 eipwork/kuboard-spray:v1.2.3-amd64
 #支持指定架构
 #--platform=linux/amd64kubesphere/notification-manager-operator:v1.4.0
