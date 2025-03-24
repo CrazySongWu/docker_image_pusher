@@ -1,6 +1,14 @@
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-kubesphere/ks-jenkins:v3.3.0-2.319.1
+goharbor/harbor-jobservice:v2.12.1
+goharbor/nginx-photon:v2.12.1
+goharbor/harbor-core:v2.12.1
+goharbor/harbor-registryctl:v2.12.1
+goharbor/registry-photon:v2.12.1
+goharbor/harbor-portal:v2.12.1
+goharbor/harbor-db:v2.12.1
+goharbor/redis-photon:v2.12.1
+goharbor/harbor-log:v2.12.1
 # --platform=linux/amd64 eipwork/kuboard-spray:v1.2.3-amd64
 #支持指定架构
 #--platform=linux/amd64kubesphere/notification-manager-operator:v1.4.0
