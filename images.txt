@@ -1,6 +1,6 @@
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-goharbor/prepare:v2.12.1
+registry.k8s.io/build-image/kube-cross:v1.29.0 --platform=linux/aarch
 # --platform=linux/amd64 eipwork/kuboard-spray:v1.2.3-amd64
 #支持指定架构
 #--platform=linux/amd64kubesphere/notification-manager-operator:v1.4.0
